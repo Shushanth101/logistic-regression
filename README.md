@@ -1,4 +1,3 @@
-# Logistic-Regression
 <h1>Logistic Regression from Scratch</h1>
 <p> This repository contains an implementation of logistic regression coded entirely from scratch, without the use of machine learning libraries like Scikit-learn or TensorFlow. The project demonstrates a hands-on approach to understanding the core mathematical concepts behind logistic regression, including:</p>
 <ul> 
